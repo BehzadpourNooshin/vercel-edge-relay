@@ -16,6 +16,9 @@ It is designed for deployment on Vercel Edge Runtime.
 - Dynamic upstream routing via `process.env.TD`
 - Streaming request forwarding
 
+> **ℹ️ Info**
+> Obfuscation is for operational discretion, not malicious intent.
+
 ## Configuration
 
 Set the upstream origin:
