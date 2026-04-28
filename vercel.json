@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "edge-router-adapter",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
